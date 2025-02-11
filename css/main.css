@@ -42,12 +42,12 @@ body {
 .titulo {
   /* margin-bottom: 180px; */
   font-family: "Emilys Candy", serif;
-  color: #138e97;
+  color: #d6ba5f;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
   opacity: 0;
-  top: 0;
+  bottom: 60;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
   z-index: 1;
