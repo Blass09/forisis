@@ -41,12 +41,13 @@ body {
 }
 .titulo {
   /* margin-bottom: 180px; */
-  font-family: "Arial Narrow", Arial, sans-serif;
-  color: rgb(45, 22, 99);
+  font-family: "Emilys Candy", serif;
+  color: #138e97;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
   opacity: 0;
+  top: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
   z-index: 1;
